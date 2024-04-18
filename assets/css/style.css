@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Roboto',light 
+
+}
+.navbar {
+    background-color: #28A745;
+}
+
+.navbar-brand img {
+    width: 86px;
+    height: 25px;
+}
+
+.card-text {
+  
+    color:#707070 ;
+}
+
+.card-title{
+    color: #212529 ;
+    
+}
+
+
+.fa-solid {
+    color: #707070;
+}
+
